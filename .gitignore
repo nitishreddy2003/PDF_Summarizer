@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+models/
+*.pyc
+*.pyo
+.env  # If you have an .env file for environment variables
+LICENSE
