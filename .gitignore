@@ -1,7 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
 venv/
+venv2/
+.venv/
+
+# Python cache files
 __pycache__/
-models/
 *.pyc
 *.pyo
-.env  # If you have an .env file for environment variables
-LICENSE
+
+# Environment variables file
+.env
+
+# Model files (if generated or unnecessary for version control)
+models/
+
+# Ignore license only if it's not needed
+# LICENSE  # Remove this line unless LICENSE is not meant to be tracked
