@@ -1,0 +1,10 @@
+langchain
+PyPDF2
+pytesseract
+Pillow
+streamlit
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+transformers
